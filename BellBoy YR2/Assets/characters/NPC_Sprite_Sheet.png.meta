@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 346
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b52299caca2b74ca18ba8bd9f2ea5a
+      internalID: -1911442707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 346
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e544121d65463f489e7a17f86cd78f5
+      internalID: 953197096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 324
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd707f5b0611a4f819a5914a0e3f98
+      internalID: -603932144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b215f8da5cbf47a3ed0c7f3b26454
+      internalID: -319948675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be90798940ccefc43a415115278dc605
+      internalID: 276430766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1710b20b2ec74480ce49e18c9fb09
+      internalID: -1522303594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c3c1e9f45e79429af49cc5ad804c1
+      internalID: -693994913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4b70440ee66d4a9539d76b2e893ee
+      internalID: -1922045022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd95d304a61a744a917b2a6d752bbcb
+      internalID: -1239645258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf67ad353e3d3445b967b847a3e1bbc
+      internalID: 300556184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e66d3d88252b04bbe791e283a74fce
+      internalID: 1824632735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ff1610c3b21b4db8167f6d98c509f
+      internalID: 1282351366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6751a26ca1dd8cf4591f6d5128c15d5e
+      internalID: 362071823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e81f2612cd1f146970b1bf6d7d7839
+      internalID: 879637770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd217768a2e74694eaec3361d9645eb7
+      internalID: 267087378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20a8eb30d9c8db4791d94c6c2186483
+      internalID: -764793451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +462,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NPC_Sprite_Sheet_12: 362071823
+      NPC_Sprite_Sheet_11: 1282351366
+      NPC_Sprite_Sheet_0: -1911442707
+      NPC_Sprite_Sheet_4: 276430766
+      NPC_Sprite_Sheet_2: -603932144
+      NPC_Sprite_Sheet_8: -1239645258
+      NPC_Sprite_Sheet_5: -1522303594
+      NPC_Sprite_Sheet_1: 953197096
+      NPC_Sprite_Sheet_15: -764793451
+      NPC_Sprite_Sheet_10: 1824632735
+      NPC_Sprite_Sheet_6: -693994913
+      NPC_Sprite_Sheet_9: 300556184
+      NPC_Sprite_Sheet_3: -319948675
+      NPC_Sprite_Sheet_13: 879637770
+      NPC_Sprite_Sheet_14: 267087378
+      NPC_Sprite_Sheet_7: -1922045022
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

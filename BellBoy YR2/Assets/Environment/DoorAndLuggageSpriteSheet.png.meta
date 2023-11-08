@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,511 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbe2d034f47bc4eb0ccd05e781e87b
+      internalID: 1131772564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 27
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2efd7a2b02da478d5ffc70612f631
+      internalID: -2068262486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b824bbfbfabb6c4ab913f09a01a8ee9
+      internalID: 1826638047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 27
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902526b3c150f54fa730fd0ca2c5d22
+      internalID: -461563256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbbbf3cea4441c4faa1bd4c4265e6c5
+      internalID: -106987506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 27
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3471db017fd733144996f08f2e4b7210
+      internalID: -2102450282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a484b7166d428704b8d3cade13ff0ec0
+      internalID: 1880427250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9eb5f7a5cf4b04f89b5eb5353f70ac
+      internalID: -1819371761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c0a30e69976a45bde7a214c3892f4
+      internalID: 608534337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 27
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654f4ce23b6c9348bb7de5cddfc7361
+      internalID: -1212701626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36793907280d45b4ab78490a26818a67
+      internalID: -807025955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 27
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7524044e5f3d2f54f9cb998c02ba7aa5
+      internalID: -542908187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f760a2a6cd8fe4c4c9ad594790b99a19
+      internalID: -1945276422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da47fbee259af0b4c93e942d12bd36cb
+      internalID: -2038527034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ccc8bb255535b42b0b07088598ca22
+      internalID: 2063925939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de5149062458ba46b3b37398e97b25c
+      internalID: 1583307444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05323613c4d344197061f8d78169a1
+      internalID: 109519839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c96e7aac52624d99bc80ca9bc909a
+      internalID: -1273432933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58780d4c7360443b25f5047c07852a
+      internalID: 567910697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295949156342b1e408a6addf4d9ee436
+      internalID: -65940760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36de80b7040da5447a2f97323859aab6
+      internalID: -1654461297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c4da80c02f9941bb13e2043a70162
+      internalID: -581523959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba46b88053b1584a885fde5bcda5e8f
+      internalID: -1075045128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorAndLuggageSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9f612e544b80b4296d10d0f6af3b5e
+      internalID: 1891199403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +630,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DoorAndLuggageSpriteSheet_4: -106987506
+      DoorAndLuggageSpriteSheet_15: 1583307444
+      DoorAndLuggageSpriteSheet_0: 1131772564
+      DoorAndLuggageSpriteSheet_11: -542908187
+      DoorAndLuggageSpriteSheet_2: 1826638047
+      DoorAndLuggageSpriteSheet_14: 2063925939
+      DoorAndLuggageSpriteSheet_18: 567910697
+      DoorAndLuggageSpriteSheet_21: -581523959
+      DoorAndLuggageSpriteSheet_1: -2068262486
+      DoorAndLuggageSpriteSheet_20: -1654461297
+      DoorAndLuggageSpriteSheet_16: 109519839
+      DoorAndLuggageSpriteSheet_10: -807025955
+      DoorAndLuggageSpriteSheet_9: -1212701626
+      DoorAndLuggageSpriteSheet_19: -65940760
+      DoorAndLuggageSpriteSheet_17: -1273432933
+      DoorAndLuggageSpriteSheet_8: 608534337
+      DoorAndLuggageSpriteSheet_22: -1075045128
+      DoorAndLuggageSpriteSheet_13: -2038527034
+      DoorAndLuggageSpriteSheet_5: -2102450282
+      DoorAndLuggageSpriteSheet_12: -1945276422
+      DoorAndLuggageSpriteSheet_23: 1891199403
+      DoorAndLuggageSpriteSheet_3: -461563256
+      DoorAndLuggageSpriteSheet_6: 1880427250
+      DoorAndLuggageSpriteSheet_7: -1819371761
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
